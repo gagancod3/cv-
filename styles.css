@@ -1,0 +1,39 @@
+body{
+  background-color: #ffd8a6;
+}
+h1{
+  color:#12947f;
+  font-size: 50px;
+  font-style: italic;
+}
+h2{
+  color:#12947f;
+}
+h3{
+  color:#12947f;
+  font-style: italic;
+}
+p{
+  font-style: italic;
+}
+a{
+  color: #d92027;
+}
+hr{
+  border-style: none;
+  border-top-style: dotted;
+  border-color: #3b6978;
+  border-width: 5px;
+  width: 5%;
+
+}
+/*img{
+  height: 200px;
+}*/
+th{
+  font-style: italic;
+}
+.image{
+  height: 200px;
+  border-radius: 100%;
+}
